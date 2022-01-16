@@ -1,0 +1,13 @@
+   body
+        {
+            background-image:url("images/background.jpg");
+        }
+   a:link 
+        {
+            color: yellow;
+            background color: whitesmoke;
+            text-decoration: none;
+            padding: 15px;
+        }
+
+     
